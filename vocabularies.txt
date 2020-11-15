@@ -1,0 +1,45 @@
+zéro - 1
+un - 1
+deux - 2
+trois - 3
+quatre - 4
+cinq - 5
+six - 6
+sept - 7
+huit - 8
+neuf - 9
+dix - 10
+onze - 11
+douze - 12
+treize - 13
+quatorze - 14
+quinze -15
+seize - 16
+dix-sept - 17
+dix-huit - 18
+dix-neuf - 19
+vingt - 20
+21	vingt et un	vant ay uh - 21
+22	vingt-deux	van duh - 22
+23	vingt-trois	van twa - 23
+24	vingt-quatre	van KAT-ruh - 24
+25	vingt-cinq	van sank
+26	vingt-six	van sees
+27	vingt-sept	van set
+28	vingt-huit	van wheet
+29	vingt-neuf	van nuhf
+30	trente	tront
+31	trente et un	tront ay uh
+32	trente-deux	tront duh
+33	trente-trois	tront twa
+44	quarante-quatre	ka-RONT KAT-ruh
+45	quarante-cinq	ka-RONT sank
+46	quarante-six	ka-RONT sees
+57	cinquante-sept	SAN-kont set
+58	cinquante-huit	SAN-kont wheet
+59	cinquante-neuf	SAN-kont nuhf
+60	soixante	SWA-sont
+61	soixante et un	SWA-sont ay uh
+63	soixante-trois	SWA-sont twa
+65	soixante-cinq	SWA-sont sank
+68	soixante-huit	SWA-sont wheet
